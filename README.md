@@ -1,5 +1,2 @@
-## One page Resume
-[Resume](resume.pdf)
-
-## Curriculum Vitae
-[Curriculum Vitae](CV.pdf)
+## Curriculum Vitae/Resume
+[Curriculum Vitae/Resume](CV.pdf)
